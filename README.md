@@ -11,4 +11,4 @@
 - sja
 
 [Link to Google](https://www.google.com)
-![An image of Star Series from Mucha](https://www.pinterest.com/pin/367324913326942472/)
+![An image of Star Series from Mucha](S:\2024\IDEA9103\WEEK8\jzha6441_9103_tut01\Image\ff312e5eaaed303a7a41bc75824ffefa.jpg)
