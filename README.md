@@ -3,7 +3,7 @@
 # Inspiration By ***Lesley Dumbrell***
 ### **Blue Moon**
 
-![An image of 'November' on the web of NGV](Image\November.jpg)
+![An image of 'November' on the web of NGV](jzha6441_9103_tut01\Image\November.jpg)
 ***'November'*** *from the web of National Gallery of Victoria*
 ![An image of 'Blue Moon' that I took in NGV](Image\BlueMoon.jpg)
 ***'Blue Moon'*** *photoed by me in National Gallery of Victoria*
