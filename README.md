@@ -20,6 +20,6 @@ I have inspired by the artworks from Lesley Dumbrell, who use simple repeating s
 
 
 ![This is the screenshot of Precedent 1](Image/Precedent1.png)
-[This is teh link to the Precedent 1](https://openprocessing.org/sketch/137024)
+[This is the link to the Precedent 1](https://openprocessing.org/sketch/137024)
 ![This is the screenshot of Precedent 2](Image/Precedent2.png)
 [This is the link to the Precedent 2](https://openprocessing.org/sketch/2339291)
